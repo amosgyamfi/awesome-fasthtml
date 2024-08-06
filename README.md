@@ -7,7 +7,7 @@ Awesome and Best FastHTML Resources For Developers
 - [Python](https://www.python.org/)
 
 ## Tools 
-- [HTML to Fast Tag (FT)(https://h2x.answer.ai/)
+- [HTML to Fast Tag (FT)](https://h2x.answer.ai/)
 - [Answer AI's HTML to Markdown](https://web2md.answer.ai/)
 
 ## YouTube Videos
