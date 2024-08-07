@@ -1,5 +1,5 @@
 # 🙌 Awesome FastHTML 👏
-Awesome and Best FastHTML Resources For Developers
+Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to this repo.
 
 ## Core Technologies 
 - [FastHTML Website](https://www.fastht.ml/)
