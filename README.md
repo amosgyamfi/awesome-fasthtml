@@ -23,7 +23,17 @@ Awesome and Best FastHTML Resources For Developers
 - [Fireship July 2024 Code Report: FastHTML Framework](https://youtu.be/l0e9i8zXcIs?si=Vz45eCEExM4DeRcF)
 - [Getting Started With FastHTML](https://youtu.be/Auqrm7WFc0I?si=2TnF14KzuT0xD6y5)
 - [FastHTML - The Fastest Way to Create an HTML App With Python](https://youtu.be/7OhBgkFtwFU?si=svG-_FNMD2M-NXYn)
+- [Exploring FastHTML](https://youtu.be/4En57Zw6gU4?si=iVbgDEtcD9DVg56k)
 
 ## Articles
 - [FastHTML: Everything You Need to Know](https://daily.dev/blog/fasthtml-everything-you-need-to-know-about-this-modern-web-framework-in-pure-python)
 - [Creating Custom FastHTML Tags](https://isaac-flath.github.io/website/posts/boots/FasthtmlTutorial.html)
+- [Python Framework that Changes Everything](https://medium.com/@hhartleyjs/this-new-python-web-framework-changes-everything-b667db75f6fd)
+
+## Social
+[Discord Community](https://discord.gg/qcXvcxMhdP)
+
+## News
+- [Product Hunt](https://www.producthunt.com/posts/fastht-ml)
+- [Hacker News](https://news.ycombinator.com/item?id=41104305)
+- [Reddit](https://www.reddit.com/r/Python/comments/1eghskf/jeremy_howard_cofounder_of_fastai_released/)
