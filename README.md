@@ -61,6 +61,7 @@ serve()
 - [Pico✨](https://picocss.com/)
 - [Tailwind](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
+- [Shoelace](https://shoelace.style/)
 
 ## GitHub
 - [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
