@@ -1,6 +1,53 @@
 # 🙌 Awesome FastHTML 👏
 Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to this repo.
 
+## Examples
+**A Simple Video Player in Pure Python**
+
+```python
+from fasthtml.common import *
+
+# Create app and router instances
+app, rt = fast_app()
+
+# Define a route decorator
+@rt('/')  # Define a route for the root path or home route
+def get():
+    return Div(
+        H1('Up and running with FastHTML!'),
+        Video(
+            Source(src='movie.mp4', type='video/mp4'),
+            Source(src='movie.ogg', type='video/ogg'),
+            'Your browser does not support the video tag.',
+            width=460,
+            height=380,
+            controls=True,
+            style='''
+                border: 6px solid #005fff; 
+                border-radius: 32px; 
+                box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+            '''
+        ),
+        Style(
+            '''
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                height: 100vh;
+                margin: 0;
+            }
+            h1 {
+                text-align: center;
+                color: #005fff;
+            }
+            '''
+        ),
+    )
+
+serve()
+```
+
 ## Core Technologies 
 - [FastHTML Website](https://www.fastht.ml/)
 - [HTMX](https://htmx.org/)
