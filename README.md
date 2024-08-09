@@ -52,6 +52,7 @@ serve()
 - [FastHTML Website](https://www.fastht.ml/)
 - [HTMX](https://htmx.org/)
 - [Python](https://www.python.org/)
+- [Fastlite](https://answerdotai.github.io/fastlite/)
 
 ## Tools 
 - [HTML to FastTag (FT)](https://h2x.answer.ai/)
