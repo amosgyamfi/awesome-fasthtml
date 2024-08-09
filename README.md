@@ -66,6 +66,7 @@ serve()
 ## GitHub
 - [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
 - [FastHTML App Examples](https://github.com/AnswerDotAI/fasthtml-example/tree/main)
+- [Source Code: FastHTML About Page](https://github.com/AnswerDotAI/fasthtml/blob/main/examples/adv_app.py)
 - [FastHTML Gallery](https://github.com/Isaac-Flath/FastHTML-Gallery)
 
 ## YouTube Videos
