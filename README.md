@@ -53,6 +53,7 @@ serve()
 - [HTMX](https://htmx.org/)
 - [Python](https://www.python.org/)
 - [Fastlite](https://answerdotai.github.io/fastlite/)
+- [Uvicorn](https://www.uvicorn.org)
 
 ## Tools 
 - [HTML to FastTag (FT)](https://h2x.answer.ai/)
