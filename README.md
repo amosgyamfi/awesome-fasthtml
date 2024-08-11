@@ -46,7 +46,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 
 
 ## Social
-- [Discord Community](https://github.com/)
+- [Discord Community](https://discord.gg/qcXvcxMhdP)
 
 ## News
 - [Product Hunt](https://www.producthunt.com/posts/fastht-ml)
