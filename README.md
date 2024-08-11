@@ -14,7 +14,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 
 
 ## Tools
-- [HTML to FastTag](https://web2md.answer.ai/)
+- [HTML to FastTag](https://h2x.answer.ai/)
 - [Answer AI's HTML to Markdown](https://web2md.answer.ai/)
 
 
@@ -22,11 +22,11 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Pico✨](https://picocss.com/): Out of the box support for FastHTML
 - [Tailwind](https://tailwindcss.com/)
 - [daisyUI](https://daisyui.com/)
-- [Alpine.js](https://tailwindcss.com/)
+- [Alpine.js](https://alpinejs.dev/)
 - [Shoelace](https://shoelace.style/)
 
 ## GitHub
-- [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml-example/tree/main)
+- [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
 - [FastHTML App Examples](https://github.com/AnswerDotAI/fasthtml-example/tree/main)
 - [Source Code: FastHTML About Page](https://isaac-flath.github.io/website/posts/boots/FasthtmlTutorial.html)
 - [FastHTML Gallery](https://github.com/Isaac-Flath/FastHTML-Gallery)
