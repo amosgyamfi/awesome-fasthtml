@@ -37,6 +37,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Getting Started With FastHTML](https://youtu.be/Auqrm7WFc0I?si=2TnF14KzuT0xD6y5)
 - [FastHTML - The Fastest Way to Create an HTML App With Python](https://youtu.be/7OhBgkFtwFU?si=svG-_FNMD2M-NXYn)
 - [Exploring FastHTML](https://youtu.be/4En57Zw6gU4?si=iVbgDEtcD9DVg56k)
+- [Build Applications For LLMs in Python](https://youtu.be/ptRaku0zyeA)
 
 
 ## Articles
