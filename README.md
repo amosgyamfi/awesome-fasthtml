@@ -11,6 +11,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Python](https://www.python.org/)
 - [Fastlite](https://answerdotai.github.io/fastlite/)
 - [Uvicorn](https://www.uvicorn.org/)
+- [Starlette](https://www.starlette.io/)
 
 
 ## Tools
