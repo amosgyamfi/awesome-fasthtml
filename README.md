@@ -49,6 +49,12 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 ## Social
 - [Discord Community](https://discord.gg/qcXvcxMhdP)
 
+## Deployment/Hosting
+- [Railway](https://railway.app/)
+- [Vercel](https://vercel.com/templates/python/fasthtml-python-boilerplate)
+- [🤗 Hugging Face](https://huggingface.co/)
+- [PythonAnywhere](https://www.pythonanywhere.com/)
+
 ## News
 - [Product Hunt](https://www.producthunt.com/posts/fastht-ml)
 - [Hacker News](https://news.ycombinator.com/item?id=41104305)
