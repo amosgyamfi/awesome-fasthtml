@@ -40,10 +40,11 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Exploring FastHTML](https://youtu.be/4En57Zw6gU4?si=iVbgDEtcD9DVg56k)
 
 
-## Articles
+## Articles/Video Tutorials
 - [FastHTML: Everything You Need to Know](https://daily.dev/blog/fasthtml-everything-you-need-to-know-about-this-modern-web-framework-in-pure-python)
 - [Creating Custom FastHTML Tags](https://isaac-flath.github.io/website/posts/boots/FasthtmlTutorial.html)
 - [Python Framework that Changes Everything](https://medium.com/@hhartleyjs/this-new-python-web-framework-changes-everything-b667db75f6fd)
+- [HTMX Intro: Calcode](https://calmcode.io/course/htmx/introduction)
 
 
 ## Social
