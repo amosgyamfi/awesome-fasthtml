@@ -22,6 +22,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 ## UI Components & Styling
 - [Pico✨](https://picocss.com/): Out of the box support for FastHTML
 - [Tailwind](https://tailwindcss.com/)
+- [PyTailwindCSS: Standalone Tailwind CSS Python CLI](https://github.com/timonweb/pytailwindcss)
 - [daisyUI](https://daisyui.com/)
 - [Alpine.js](https://alpinejs.dev/)
 - [Shoelace](https://shoelace.style/)
