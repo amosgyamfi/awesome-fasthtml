@@ -15,7 +15,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 
 
 ## Tools
-- [HTML to FastTag](https://h2x.answer.ai/)
+- [HTML to FastTag](https://h2f.answer.ai/)
 - [Answer AI's HTML to Markdown](https://web2md.answer.ai/)
 
 
@@ -55,6 +55,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Vercel](https://vercel.com/templates/python/fasthtml-python-boilerplate)
 - [🤗 Hugging Face](https://huggingface.co/)
 - [PythonAnywhere](https://www.pythonanywhere.com/)
+- [FastHTML Deployment Examples](https://github.com/AnswerDotAI/fh-deploy)
 
 ## News
 - [Product Hunt](https://www.producthunt.com/posts/fastht-ml)
