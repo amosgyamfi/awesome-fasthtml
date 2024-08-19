@@ -27,12 +27,14 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [daisyUI](https://daisyui.com/)
 - [Alpine.js](https://alpinejs.dev/)
 - [Shoelace](https://shoelace.style/)
+- [[Shadcn for FastHTML]](https://www.shad4fasthtml.com/)
 
 ## GitHub
 - [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
 - [FastHTML App Examples](https://github.com/AnswerDotAI/fasthtml-example/tree/main)
 - [Source Code: FastHTML About Page](https://isaac-flath.github.io/website/posts/boots/FasthtmlTutorial.html)
 - [FastHTML Gallery](https://github.com/Isaac-Flath/FastHTML-Gallery)
+- [Shadcn for FastHTML](https://github.com/curtis-allan/shadcn-fasthtml-framework)
 
 
 ## YouTube Videos
