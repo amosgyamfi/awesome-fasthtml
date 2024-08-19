@@ -27,7 +27,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [daisyUI](https://daisyui.com/)
 - [Alpine.js](https://alpinejs.dev/)
 - [Shoelace](https://shoelace.style/)
-- [[Shadcn for FastHTML]](https://www.shad4fasthtml.com/)
+- [Shadcn for FastHTML](https://www.shad4fasthtml.com/)
 
 ## GitHub
 - [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
