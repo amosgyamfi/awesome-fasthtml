@@ -2,6 +2,10 @@
 
 Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to this repo.
 
+## Websites Built With FastHTML
+- [About FastHTML](https://about.fastht.ml/)
+- [daniel.feldroy.com](https://daniel.feldroy.com/)
+
 ## Core Technologies
 
 - [FastHTML Website](https://www.fastht.ml/)
