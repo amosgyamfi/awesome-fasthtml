@@ -5,6 +5,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 ## Websites Built With FastHTML
 - [About FastHTML](https://about.fastht.ml/)
 - [daniel.feldroy.com](https://daniel.feldroy.com/)
+- [blog.mariusvach.com](https://blog.mariusvach.com/)
 
 ## Core Technologies
 
@@ -55,6 +56,8 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Python Framework that Changes Everything](https://medium.com/@hhartleyjs/this-new-python-web-framework-changes-everything-b667db75f6fd)
 - [HTMX Intro: Calcode](https://calmcode.io/course/htmx/introduction)
 - Medium: [FastHTML: Organizing Routes Across Multiple Files](https://medium.com/@qmsoqm2/fasthtml-organizing-routes-with-a-folder-structure-a41d78eacb21)
+- [How to Implement Passwordless Authentication in FastHTML](https://blog.mariusvach.com/posts/passwordless-auth-fasthtml)
+- [How to Build a Simple Login System in FastHTML](https://blog.mariusvach.com/posts/login-fasthtml)
 
 
 ## Social
