@@ -34,6 +34,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Shadcn for FastHTML](https://www.shad4fasthtml.com/)
 - [Sakura: Minimal CSS Framework](https://github.com/oxalorg/sakura)
 - [TailwindCSS Demo/Template for FastHTML](https://github.com/ninohdasilva/fasthtml-tailwind-template)
+- [HTMX Examples With FastHTML](https://phihung-htmx-examples.hf.space/)
 
 
 ## Icons
@@ -48,6 +49,8 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [FastHTML Gallery](https://github.com/Isaac-Flath/FastHTML-Gallery)
 - [Shadcn for FastHTML](https://github.com/curtis-allan/shadcn-fasthtml-framework)
 - [FastHTML PocketBase](https://github.com/therg/fasthtml-pocketbase-auth)
+- [Code Assistant](https://github.com/phact/code-assistant)
+- [Route Organization](https://github.com/AnswerDotAI/fasthtml/issues/217)
 
 
 ## YouTube Videos
