@@ -32,6 +32,14 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Alpine.js](https://alpinejs.dev/)
 - [Shoelace](https://shoelace.style/)
 - [Shadcn for FastHTML](https://www.shad4fasthtml.com/)
+- [Sakura: Minimal CSS Framework](https://github.com/oxalorg/sakura)
+- [TailwindCSS Demo/Template for FastHTML](https://github.com/ninohdasilva/fasthtml-tailwind-template)
+
+
+## Icons
+- [Fontawesome 6 Free Icons as SVGs](https://answerdotai.github.io/fa6-icons/)
+- [FastHTML Lucid Icons](https://pypi.org/project/lucide-fasthtml/)
+
 
 ## GitHub
 - [Oficial FastHTML Docs](https://github.com/AnswerDotAI/fasthtml)
@@ -39,10 +47,12 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Source Code: FastHTML About Page](https://isaac-flath.github.io/website/posts/boots/FasthtmlTutorial.html)
 - [FastHTML Gallery](https://github.com/Isaac-Flath/FastHTML-Gallery)
 - [Shadcn for FastHTML](https://github.com/curtis-allan/shadcn-fasthtml-framework)
+- [FastHTML PocketBase](https://github.com/therg/fasthtml-pocketbase-auth)
 
 
 ## YouTube Videos
 - [Fireship July 2024 Code Report: FastHTML Framework](https://youtu.be/l0e9i8zXcIs?si=Vz45eCEExM4DeRcF)
+- [What is FastHTML?](https://youtu.be/RKdyR25-_yE?si=r-_shTofC5DzTkJU)
 - [Getting Started With FastHTML](https://youtu.be/Auqrm7WFc0I?si=2TnF14KzuT0xD6y5)
 - [FastHTML - The Fastest Way to Create an HTML App With Python](https://youtu.be/7OhBgkFtwFU?si=svG-_FNMD2M-NXYn)
 - [Exploring FastHTML](https://youtu.be/4En57Zw6gU4?si=iVbgDEtcD9DVg56k)
@@ -55,6 +65,9 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [Python Framework that Changes Everything](https://medium.com/@hhartleyjs/this-new-python-web-framework-changes-everything-b667db75f6fd)
 - [HTMX Intro: Calcode](https://calmcode.io/course/htmx/introduction)
 - Medium: [FastHTML: Organizing Routes Across Multiple Files](https://medium.com/@qmsoqm2/fasthtml-organizing-routes-with-a-folder-structure-a41d78eacb21)
+- Medium: [First Encounter With FastHTML](https://medium.com/@mrsirsh/first-encounter-with-fasthtml-building-a-fasthtml-assistant-fe896d3a3e60)
+- Medium: [FastHTML With Tailwind CSS](https://medium.com/@pitvfx/fasthtml-with-tailwind-css-480b7590c79b)
+- [Simple FastHTML Login System](https://blog.mariusvach.com/posts/login-fasthtml)
 
 
 ## Social
