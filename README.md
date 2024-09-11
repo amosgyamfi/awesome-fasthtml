@@ -22,6 +22,7 @@ Awesome and Best FastHTML Resources For Developers. Create a PR to contribute to
 - [HTML to FastTag](https://h2f.answer.ai/)
 - [Answer AI's HTML to Markdown](https://web2md.answer.ai/)
 - [HTML 2 FastHTML: Third-party](https://github.com/Pjt727/Html2FastHtml)
+- [HTML2FT Visual Studio Code extension](https://github.com/callmephilip/html2ft)
 
 
 ## UI Components & Styling
